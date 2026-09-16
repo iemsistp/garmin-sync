@@ -1,0 +1,4 @@
+garth
+requests
+fastapi
+uvicorn
